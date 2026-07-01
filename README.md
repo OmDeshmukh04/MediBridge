@@ -4,6 +4,10 @@ MediBridge is a health-record management platform built for a Smart India Hackat
 
 This repository is a reconstructed, repo-ready version of the project so the implementation can be shared publicly and linked from a resume.
 
+## Preview
+
+![MediBridge dashboard](docs/medibridge-dashboard.png)
+
 ## What We Built
 
 - Role-based REST APIs for patients, doctors, health workers, and administrators.
@@ -109,4 +113,3 @@ The frontend runs on `http://localhost:5173`.
 - Add real OCR adapter through Tesseract, AWS Textract, Azure Form Recognizer, or another approved OCR provider.
 - Add encrypted document storage and field-level encryption for sensitive values.
 - Add unit and integration tests for RBAC, report analysis, and integration adapters.
-
