@@ -1,0 +1,23 @@
+{
+  "name": "medibridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Health record management platform with RBAC, patient timelines, report analysis, and demo integration adapters.",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "check:backend": "npm --prefix backend run check"
+  },
+  "keywords": [
+    "health-records",
+    "react",
+    "node",
+    "express",
+    "postgresql",
+    "jwt",
+    "ocr"
+  ],
+  "author": "Om Deshmukh",
+  "license": "MIT"
+}
+
